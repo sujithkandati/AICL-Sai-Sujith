@@ -1,0 +1,20 @@
+#c1{ width:100%;
+    height:90px;
+    background-color:rgb(212, 0, 255)
+    
+}
+h1 {
+    color: rgb(42, 165, 128);
+}
+table{
+    scroll-padding-inline: 20px;
+    width: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+td{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    padding: 20px;
+}
